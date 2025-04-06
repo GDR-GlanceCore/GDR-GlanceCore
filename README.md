@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-glancecore&label=Profile%20views&color=0e75b6&style=flat" alt="g-glancecore" /> </p>
 <div align="center">
-  <img src="" alt="">
+  <img src="https://github.com/G-GlanceCore/G-GlanceCore/blob/main/assets/38004015.jpg" alt="">
 </div>
 
 
@@ -110,7 +110,8 @@ Here are some ideas to get you started:
   </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+  </a> 
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
 </p>
