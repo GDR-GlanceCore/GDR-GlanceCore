@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-glancecore&label=Profile%20views&color=0e75b6&style=flat" alt="g-glancecore" /> </p>
 <div align="center">
-  <img src="https://github.com/G-GlanceCore/G-GlanceCore/blob/main/assets/38004015.jpg" alt="">
+  <img src="https://github.com/GDR-GlanceCore/GDR-GlanceCore/blob/main/assets/38004015.jpg" alt="">
 </div>
 
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate software developer from Philippines</h3>
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g-glancecore" alt="g-glancecore" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdr-glancecore" alt="gdr-glancecore" /></a> </p>
 
 ---
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **WebCaculator**
 
-- 👨‍💻 All of my projects are available at [https://github.com/G-GlanceCore](https://github.com/G-GlanceCore)
+- 👨‍💻 All of my projects are available at [https://github.com/GDR-GlanceCore](https://github.com/GDR-GlanceCore)
 
 
 
@@ -118,14 +118,14 @@ Here are some ideas to get you started:
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-glancecore&show_icons=true&locale=en&layout=compact" alt="g-glancecore" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gdr-glancecore&show_icons=true&locale=en&layout=compact" alt="gdr-glancecore" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g-glancecore&show_icons=true&locale=en" alt="g-glancecore" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gdr-glancecore&show_icons=true&locale=en" alt="gdr-glancecore" /></p>
 
 
 ---
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g-glancecore&" alt="g-glancecore" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gdr-glancecore&" alt="gdr-glancecore" /></p>
 
 
