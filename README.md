@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on **WebCaculator**
+- 🔭 I’m currently working on **Web Typing Speed Game**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GDR-GlanceCore](https://github.com/GDR-GlanceCore)
 
