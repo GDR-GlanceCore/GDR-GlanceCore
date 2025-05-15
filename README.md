@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-glancecore&label=Profile%20views&color=0e75b6&style=flat" alt="g-glancecore" /> </p>
 <div align="center">
-  <img src="https://github.com/GDR-GlanceCore/GDR-GlanceCore/blob/main/assets/banner.jpg" alt="">
+  <img src="https://github.com/GDR-GlanceCore/GDR-GlanceCore/blob/main/assets/Banner.jpg" alt="">
 </div>
 
 
