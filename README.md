@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<h1 align="center">Hi Everyone 👋, I'm Greg Rasonabe</h1>
+<h1 align="center">Hi Everyone 👋, I'm GDR-GlanceCore</h1>
 <h3 align="center">A passionate software developer from Philippines</h3>
 
 ---
